@@ -1,0 +1,3 @@
+initialized with expo. to initialize with expo use "expo init 'ProjectName'"
+
+view is like div, in react-native we have html equivalents.
